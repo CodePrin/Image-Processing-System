@@ -8,6 +8,9 @@ The main objective of this project is to build a system to efficiently process i
 * Column 2: Product Name:- This will be a name of product against which we will store input and output images
 * Column 3: Input Image URLs - In this column we will have comma separated image URLs.
 
+<img width="737" height="376" alt="image" src="https://github.com/user-attachments/assets/ba0cdeff-01d2-470b-aaf9-de6db06dcb4f" />
+
+
 
 
 2\. Validate:- Ensure the CSV data is correctly formatted.
@@ -45,6 +48,8 @@ b. Later:- Offer a separate API to check processing status using the request ID.
 * Column 2: Product Name:- This will be a name of product against which we will store input and output images.
 * Column 3: Input Image URLs:- In this column we will have comma separated image URLs.
 * Column 4: Output Image URLs:- In this column we will have comma separated output image URLs in the same sequence as input.
+
+<img width="838" height="543" alt="image" src="https://github.com/user-attachments/assets/92fa10bf-2197-4ed4-94f6-f814f2318496" />
 
 
 
