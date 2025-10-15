@@ -1,0 +1,3 @@
+Serial Number,Product Name,Input Image Urls,Output Image Urls
+1,Red Shirt,https://github.com/CodePrin/Images/blob/main/Red%20Shirt.jpg?raw=true,http://127.0.0.1:5000/processed_images/ea3a2ff6be6441b18227c320728a8832_1.jpg
+2,Blue Jeans,https://github.com/CodePrin/Images/blob/main/Blue%20Jeans.jpg?raw=true,http://127.0.0.1:5000/processed_images/6eb05552c542414ead4fdf93cecc71da_2.jpg
