@@ -32,7 +32,7 @@ b. Later:- Offer a separate API to check processing status using the request ID.
 
 
 
-**Requirements**
+## **Requirements**
 
 **1. Asynchronous Processing:-**
 
@@ -199,7 +199,7 @@ Once processing is completed:
 
 
 
-**Diagram**
+## **Diagram**
 
 ![Flowchart](https://github.com/user-attachments/assets/1830d358-fbd3-4d35-a28c-fff47c34db62)
 
@@ -207,7 +207,7 @@ Once processing is completed:
 
 
 
-**Result**
+## **Result**
 ---
 
 A fully functional Flask-based Image Processing API capable of:
