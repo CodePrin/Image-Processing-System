@@ -208,8 +208,6 @@ Once processing is completed:
 
 
 ## **Result**
----
-
 A fully functional Flask-based Image Processing API capable of:
 
 * Validating CSV input.
